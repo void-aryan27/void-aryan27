@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there, I'm Raj Aryan Naresh
 
-<!--
-**void-aryan27/void-aryan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Grad | 💻 Full Stack Developer | 🛠️ Spring Boot & React Fan  
+📍 Based in Andaman Islands, India  
+🌱 Currently learning: Microservices, Authentication Systems  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/rajaryannaresh) | [Email](mailto:your-email@gmail.com)
 
-Here are some ideas to get you started:
+## ⚡ Projects
+- 🔐 [JWT Auth System](link)
+- 🎥 [Movie App with Microservices](link)
+- 📝 [Notes App - React + Spring Boot](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"I love building things that make life easier. Let's code the future!"*
+
